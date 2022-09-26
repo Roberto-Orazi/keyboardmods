@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f206742.css",
+    "main.css": "/static/css/main.795aceb9.css",
     "main.js": "/static/js/main.09884dbb.js",
     "static/js/787.1a3d3119.chunk.js": "/static/js/787.1a3d3119.chunk.js",
     "static/media/fondo1blackout.png": "/static/media/fondo1blackout.be1cb01b3995e54aafd3.png",
     "static/media/switchlogo.png": "/static/media/switchlogo.bf2a7215e8d3772ac370.png",
     "index.html": "/index.html",
-    "main.3f206742.css.map": "/static/css/main.3f206742.css.map",
+    "main.795aceb9.css.map": "/static/css/main.795aceb9.css.map",
     "main.09884dbb.js.map": "/static/js/main.09884dbb.js.map",
     "787.1a3d3119.chunk.js.map": "/static/js/787.1a3d3119.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f206742.css",
+    "static/css/main.795aceb9.css",
     "static/js/main.09884dbb.js"
   ]
 }
